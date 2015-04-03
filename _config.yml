@@ -101,7 +101,6 @@ widgets:
 - recent_posts
 - archive
 - category
-- tag
 - tagcloud
 - links
 

@@ -1,9 +1,12 @@
-title: How to create a WebApp project with Maven
+layout: post
+title: "How to create a WebApp project with Maven"
+date: 2015-04-03 10:24:32
 tags:
 - maven
 - tomcat
 - eclipse
 ---
+
 ![](/images/maven_webapp.png)
 
 In this article, we'll take a look at how you can use Apache Tomcat in conjunction with Apache Maven to speed up your development cycle.

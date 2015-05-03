@@ -5,7 +5,13 @@ tags:
 - node
 ---
 
-![](images/node_webapp.png)
+![](/images/node_webapp.png)
+
+In this article, we'll take a look at how you can usin Node.js in conjunction with Express to speed up your development cycle.
+
+We'll start with some Node.js basics, including the initial configuring steps with npm and build a simple web server for development.
+
+<!-- more -->
 
 ## Getting Started with Node.js
 
